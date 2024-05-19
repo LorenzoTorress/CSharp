@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\bin\Debug\net8.0\Año bisiestos.exe
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\bin\Debug\net8.0\Año bisiestos.deps.json
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\bin\Debug\net8.0\Año bisiestos.runtimeconfig.json
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\bin\Debug\net8.0\Año bisiestos.dll
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\bin\Debug\net8.0\Año bisiestos.pdb
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.AssemblyInfo.cs
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.sourcelink.json
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.dll
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\refint\Año bisiestos.dll
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.pdb
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\Año bisiestos.genruntimeconfig.cache
+C:\Users\usuario\Desktop\GitHub\CSharp\4.Ejercicio\Año bisiestos\obj\Debug\net8.0\ref\Año bisiestos.dll
